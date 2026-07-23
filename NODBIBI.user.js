@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         NodeBB Chat Formatter - Pro (V2.5 - AI Format)
+// @name         NodeBB Chat Formatter - Pro (V2.6 - AI Format)
 // @namespace    http://tampermonkey.net/
 // @version      2.6
 // @description   הוספת סרגל כפתורי עיצוב לחלון הצ'אט בפורומי NodeBB - כולל עיצוב אוטומטי ע"י AI - עובד בכמה אתרים
