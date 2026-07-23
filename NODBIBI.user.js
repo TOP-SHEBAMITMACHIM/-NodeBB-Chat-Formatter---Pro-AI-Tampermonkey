@@ -13,8 +13,8 @@
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/579494/NodeBB%20Chat%20Formatter%20-%20Pro%20%28V24%20-%20Multi%20Site%29.user.js
-// @updateURL https://update.greasyfork.org/scripts/579494/NodeBB%20Chat%20Formatter%20-%20Pro%20%28V24%20-%20Multi%20Site%29.meta.js
+// @updateURL   https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/-NodeBB-Chat-Formatter---Pro-AI-Tampermonkey/main/NODBIBI.user.js
+// @downloadURL https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/-NodeBB-Chat-Formatter---Pro-AI-Tampermonkey/main/NODBIBI.user.js
 // ==/UserScript==
 
 (function() {
